@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T16:26:16.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5hxpy5L2unuckN1hZ2KX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T16:27:18.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="99CTDfe7AKXrEnHxRijj" version="24.5.2" type="github">
   <diagram name="Page-1" id="8DCE6RIpPnyXSrkSJeLJ">
     <mxGraphModel dx="686" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="jWhb_yzuFUs_TCLzPoOU-18" value="Deployment&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Integrate: Embed models in the manufacturing system.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monitor: Continuously improve models with new data.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jWhb_yzuFUs_TCLzPoOU-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;This approach ensures a comprehensive understanding of the project and provides a clear path from conception to deployment and continuous improvement." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="830" width="510" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
